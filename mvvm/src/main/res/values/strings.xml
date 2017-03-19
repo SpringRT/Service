@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">mvvm</string>
+
+    <string name="save">Save</string>
+
+    <string name="email_hint">Email</string>
+    <string name="name_hint">Name</string>
+    <string name="surname_hint">Surname</string>
+
+    <string name="load_error">Load data error!</string>
+    <string name="shared_preferences_key">com.a11.service.USERS</string>
+</resources>
